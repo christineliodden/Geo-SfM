@@ -15,3 +15,6 @@ Notice some unclear sections? A typo in the text? Want to add a cool tutorial or
 ### Acknowledgements and licensing
 Geo-SfM is implemented through Jupyter Book and the Executable Book Project.
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+### testing the fork stuff
+lalalalalalal we are a bit tired - but stoked:)
